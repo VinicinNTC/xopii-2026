@@ -5,7 +5,7 @@ Projeto Xopii
 = Carrinho
 = Estoque
 
-PHP c/ MySql {Adicionais: Bootstrap CSS} 
+PHP c/ MySql
 
 Alunos:
 
